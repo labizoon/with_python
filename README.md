@@ -460,4 +460,4 @@ The long-term goal of **with_python** is to become a complete Python learning an
 
 **Beginner → Intermediate → Advanced → Data Analysis → Data Engineering → Real-World Projects**
 
-The repository should remain organized, practical, and understandable for both **Labi Mirza** and **Nimi**, as well as anyone else who wants to learn from it.
+The repository should remain organized, practical, and understandable for both **Laiba Mirza** and **Nimra Asif**, as well as anyone else who wants to learn from it.
