@@ -23,8 +23,8 @@ This repository is designed to be understandable for both contributors and anyon
 
 | Contributor    | Role                  |
 | -------------- | --------------------- |
-| **Labi Mirza** | Learner & Contributor |
-| **Nimi**       | Learner & Contributor |
+| **Laiba Mirza** | Learner & Contributor |
+| **Nimra Asif**       | Learner & Contributor |
 
 Both contributors can add, improve, review, and practice code throughout the repository.
 
